@@ -11,3 +11,5 @@ console.log('[demo] start-quick is starting at port 3000');
 
 console.log('master 修改');
 console.log('master aaa');
+
+const a = 2;
